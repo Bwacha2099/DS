@@ -265,7 +265,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/video3.gif);
+    background: url(../images/the-world-is-yours-ship.gif);
     background-size: cover;
     padding: 15px;
     overflow: hidden
@@ -886,3 +886,15 @@ footer {
         padding: 5px 10px
     }
 }
+
+#education {
+    margin-top: 30px; /* Adjust the margin-top value as needed */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px; 
+    text-align: auto; 
+    padding: 50px 15px; 
+    background-color: #fff;
+    border: 2px solid #dcd9d9;
+}
+
